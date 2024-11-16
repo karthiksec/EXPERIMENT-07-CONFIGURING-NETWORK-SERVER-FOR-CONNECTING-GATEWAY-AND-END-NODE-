@@ -1,5 +1,6 @@
  ### EXPERIMENT -07 CONFIGURING NETWORK SERVER FOR CONNECTING GATEWAY AND END NODE 
- 
+ #NAME:KARTHIK G
+ #REGISTER NO:212223220043
 ## Aim: To  configure  the Network server and end device for traferring data on the network
 ## Components required: end node stm 32 development kit , dragino LPS8, network server 
 
